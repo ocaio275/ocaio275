@@ -1,5 +1,7 @@
 ## 😃 Olá, meu nome é <strong>Caio Oliveira!</strong>
-
+<div align="center">
+    <img src="coding.gif" alt="pessoa programando"/>
+</div>
 > Tenho 24 anos, sou completamente apaixonado por tecnologia, sou Analista de desenvolvimento e estou me aprimorando em Back-End 👨‍💻
 
 🔭 Ultimamente desenvolvi:
@@ -10,6 +12,9 @@
     </ul>
 📚 E atualmente estou me especializando em Node.Js, MongoDB e AWS   
 
+
+<a href="https://www.linkedin.com/in/caio-oliveira-746188153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/ocaio275" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 ----
 
 ## 🚀 Minhas Skills
@@ -30,5 +35,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocaio275&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocaio275&show_icons=true&theme=dark&layout=compact)
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocaio275&show_icons=true&theme=dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaio275&show_icons=true&theme=dark&layout=compact">
+</div
