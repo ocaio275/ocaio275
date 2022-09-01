@@ -3,13 +3,6 @@
     <img src="coding.gif" alt="pessoa programando"/>
 </div>
 > Tenho 24 anos, sou completamente apaixonado por tecnologia, sou Analista de desenvolvimento e estou me aprimorando em Back-End 👨‍💻
-
-🔭 Ultimamente desenvolvi:
-    <ul>
-    <li>Sistema de avaliação para professores do segmento de inglês</li>
-    <li>Sistema para liberação de alunos</li>
-    <li>Formulários de coletas de dados para entrevistas com pais ou responsávies</li> 
-    </ul>
 📚 E atualmente estou me especializando em Node.Js, MongoDB e AWS   
 
 
