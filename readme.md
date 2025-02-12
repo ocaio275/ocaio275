@@ -2,8 +2,7 @@
 <div align="center">
     <img src="coding.gif" alt="pessoa programando"/>
 </div>
-> Tenho 24 anos, sou completamente apaixonado por tecnologia, sou Analista de desenvolvimento e estou me aprimorando em Back-End 👨‍💻
-📚 E atualmente estou me especializando em Node.Js, MongoDB e AWS   
+Desenvolvedor Back-End Pleno com sólida experiência na criação de soluções escaláveis e seguras, com forte atuação nos setores Educacional, RH, Medicina Ocupacional e Corretoras de Seguros. Busco uma oportunidade para aplicar minhas habilidades em desenvolvimento de software e arquitetura de sistemas utilizando tecnologias modernas, com foco em microserviços e soluções em cloud computing. 
 
 
 <a href="https://www.linkedin.com/in/caio-oliveira-746188153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
